@@ -11,4 +11,4 @@ labels:
 images:
   - name: app-image
     newName: ghcr.io/__OWNER__/__APP__
-    newTag: latest
+    newTag: sha-657dbf4
